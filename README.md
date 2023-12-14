@@ -10,8 +10,8 @@ development in the future. He talked about the difference of infographic resume 
 Besides that, while on Saturday, 28 October 2023, PPG had organized a talk about our career
 development in the future as a data engineer students.
 
--Poster:
--<img src="/image/poster.png" height=150 width=150> <\n>
+- Poster:
+- <img src="/image/poster.png" height=1500 width=1500> 
 2) Assignment 2 (Presentation)
 
 3) Assignment 3 (Design Thinking)
