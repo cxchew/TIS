@@ -11,7 +11,7 @@ Besides that, while on Saturday, 28 October 2023, PPG had organized a talk about
 development in the future as a data engineer students.
 
 - Poster:
-- <img src="/image/poster.png" height=300 width=250> 
+- <img src="/image/poster.png" height=400 width=350> 
 2) Assignment 2 (Presentation)
 
 3) Assignment 3 (Design Thinking)
