@@ -19,7 +19,7 @@ development in the future as a data engineer students.
 - Photos:
 - <img src="/image/DiscussionProof.jpeg" height=300 width=300> 
 3) Assignment 3 (Design Thinking)
-- [Video for Design Thinking](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA%5D(https://www.youtube.com/watch?v=AEObz1Dx_Mo))
+- [Video for Design Thinking](https://www.youtube.com/watch?v=AEObz1Dx_Mo)
 - [Slide for presenting Design Thinking]
 - Description:
   > In design thinking, we are tasked to create or modify applications, employing critical thinking to meet users' needs. The 5 main principles in design thinking are empathy, define, ideate, prototyping, and test. The purpose of the principles is for ensuring on creating effective and user-friendly solutions. The title for our design thinking is computer software, mainly application software.
