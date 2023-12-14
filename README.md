@@ -9,7 +9,7 @@
 development in the future. He talked about the difference of infographic resume and CV.
 Besides that, while on Saturday, 28 October 2023, PPG had organized a talk about our career
 development in the future as a data engineer students.
-<img src="/image/poster.png" height=100 width=100>
+
 
 2) Assignment 2 (Presentation)
 
