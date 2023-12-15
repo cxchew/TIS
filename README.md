@@ -5,10 +5,7 @@
 1) Assignment 1 (Career Development)
 - Poster Detail
 - Description:
-  > On Monday, 23 October 2023, GetMe Hired had organized a talk about our career
-development in the future. He talked about the difference of infographic resume and CV.
-Besides that, while on Saturday, 28 October 2023, PPG had organized a talk about our career
-development in the future as a data engineer students.
+  > On Monday, 23 October 2023, GetMe Hired had organized a talk about our career development in the future. He talked about the difference of infographic resume and CV. Besides that, while on Saturday, 28 October 2023, PPG had organized a talk about our career development in the future as a data engineer students.
 
 - Poster:
 - <img src="/image/poster.png" height=400 width=350> 
@@ -19,13 +16,18 @@ development in the future as a data engineer students.
 - Photos:
 - <img src="/image/DiscussionProof.jpeg" height=300 width=300> 
 3) Assignment 3 (Design Thinking)
-- [Video for Design Thinking](https://www.youtube.com/watch?v=AEObz1Dx_Mo)
-- [Slide for presenting Design Thinking]
+
 - Description:
   > In design thinking, we are tasked to create or modify applications, employing critical thinking to meet users' needs. The 5 main principles in design thinking are empathy, define, ideate, prototyping, and test. The purpose of the principles is for ensuring on creating effective and user-friendly solutions. The title for our design thinking is computer software, mainly application software.
+- [Video for Design Thinking](https://www.youtube.com/watch?v=AEObz1Dx_Mo)
+- [Report of Design Thinking]
+- [Slide for presenting Design Thinking]
 
 4) Assignment 4 (Newsletter)
-
+- Description:
+  > On Friday, 17 November 2023, first-year data engineering students had went to Petronas office (Menara ExxonMobil) and Huawei Customer Solution Innovation Centre (CSIC) in Kuala Lumpur for an industry visits. Through the visits in Petronas, we had widened our understanding about the productive mind of a software engineer and his crucial role in a company. Besides that, mentioned by the Head of software engineering and testing at PETRONAS Digital, Sir Roman Kvaska, we also learned that some skills like analytical skills and life-long learning is necessary to be mastered flawlessly to secure job in this competitive environment which technology kept advancing. While in Huawei, we were able to witness a cutting-edged technologies that beyond our curriculum. This had deepend our understanding about ICT and it's impacts to our daily life.
+  - Petronas: -Huawei<word allign = right>
+  - 
 5) Assignment 5 (Video)
 
 6) PC Assembly
