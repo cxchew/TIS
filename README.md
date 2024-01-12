@@ -61,5 +61,5 @@
   > In conclusion, even though the talk was very short, but it was resourceful as we able to learn more about the working environment in Credence and help us to know more about what we might be facing while having a career in an industry in the future. Thanks to our lecturer, Dr Aryati and the organiser of the talk, Miss Qistina for letting us to have a fun and memorable talk. We will always remember what we had learnt from the talk and apply it while in the industry after our graduation.
 
 - Photo:<br/>
-  <img src="/image/Industry Talk 2.JPEG" height=50% width=50%> <img src="/image/IMG_0702.JPG" height=50% width=50%>
+  <img src="/image/Industry Talk 2.jpeg" height=50% width=50%>
   <br/>
