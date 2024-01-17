@@ -21,7 +21,7 @@
   > In design thinking, we are tasked to create or modify applications, employing critical thinking to meet users' needs. The 5 main principles in design thinking are empathy, define, ideate, prototyping, and test. The purpose of the principles is for ensuring on creating effective and user-friendly solutions. The title for our design thinking is computer software, mainly application software. From the assignment, we learnt that the main objective of design thinking is to not only create an effective solution that meet users' requirement, the process of learning what is design thinking and how to do it are also an important thing that we need to learn from the assignment. This is because design thinking is very useful and important when we are in the industry doing an industry projects. Besides that, many benefits also can be obtained from the design thinking. Beside of training our communication skills, we can also learn to build teamwork with team members, which is benefits for us when we were teaming up with strangers to do tasks in the future. 
 - [Video for Design Thinking](https://www.youtube.com/watch?v=AEObz1Dx_Mo)
 - [Report of Design Thinking](https://github.com/cxchew/TIS/blob/main/image/tis%20assignment%20rework%20(1)%20(1).docx)
-- [Slide for presenting Design Thinking]
+- [Slide for presenting Design Thinking](https://github.com/cxchew/TIS/blob/main/image/tis%20assignment.pdf)
 
 **4) <ins>Assignment 4 (Newsletter)**
 - Description:
@@ -53,7 +53,6 @@
   > On Thursday, 22nd November 2023, we had a chance to attend a PC Assembly session. During the session, we had learned the interior of a PC and how all the components function inside the PC. For example, the cooling fan that installed on the CPU is to cool down the CPU and preventing it from overheating and causing damage to the CPU. The most importantly, we also learned how to assemble and disassemble a PC. We did the session with a members of four to five students in a group with one CPU each. The process of assembly and disassembly was a success without any of the components damaged.
   > Overall, we had an unforgettable experience throughout the session. Thanks to Dr Aryati and the technicians for teaching us on how to succesfully assemble and disassemble CPU and how it's function. We will always remember what we had learned from the experience.
 
-- Photo:
 
 **7) <ins>Assignment 6 (Report)**
 - Description:
